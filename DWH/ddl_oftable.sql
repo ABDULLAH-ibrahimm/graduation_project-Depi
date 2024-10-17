@@ -1,4 +1,4 @@
--- Active: 1721240126074@@127.0.0.1@5432@g_dwh@public
+-- Active: 1721240126074@@127.0.0.1@5432@g_dwh
 --drop at first
 DROP TABLE IF EXISTS sales_fact;
 DROP TABLE IF EXISTS branch_dim;
